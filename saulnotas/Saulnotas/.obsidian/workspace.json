@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "9356a842ab08ccea",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b895c2e91455fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da8cc06d0eaeaca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articuo 45.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c478f88b583516fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b9471267ec3e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519f93bd9cac9a64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d0e10a79ee3b016",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01de4fd6b79a78e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b5b697847c7f6f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc99b65bcc08b16f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d0bcb8f1a4cdf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Articuo 45.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b7b5bd6addc3781",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Articuo 45.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fb52eb46e15b658",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92c61bf026ccb07a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Articuo 45.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "da8cc06d0eaeaca6",
+  "lastOpenFiles": [
+    "Articulos 48.md",
+    "Articulo 47.md",
+    "Articulo 46.md",
+    "Articulo 44.md",
+    "Articulo 43.md",
+    "Articulo 42.md",
+    "Articulo 41.md",
+    "Articulo 38.md",
+    "Vision del SNIEG.md",
+    "Mision SNIEG.md",
+    "Localidad puntual agrupada.md",
+    "Localidad amanzanada con caserio disperso.md",
+    "OBJETIVOS SNIEG.md",
+    "Caracteristicas snieg.md",
+    "SNIEG.md",
+    "Localidad puntual.md",
+    "Localidad caserio disperso.md",
+    "Localidad amanzanada.md",
+    "INEGI.md",
+    "Cartografia.md",
+    "Articuo 45.md",
+    "Welcome.md"
+  ]
+}

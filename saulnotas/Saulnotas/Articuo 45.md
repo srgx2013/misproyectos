@@ -1,0 +1,1 @@
+los informantes estaran obligados a proporcionar on veraciadad y oportunidad que le solicieten para fines estadistiocos cencales y geograficos[[INEGI]]

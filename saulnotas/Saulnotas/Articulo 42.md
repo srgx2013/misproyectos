@@ -1,0 +1,1 @@
+Los informantes podran denunciar ante las autoridades administrativas y judiciales cualquier hecho que derive que se hubieran descnocido los principios de confidencialidad y reserva a que refiere la [[INEGI]]
