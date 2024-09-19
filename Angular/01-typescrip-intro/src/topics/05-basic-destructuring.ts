@@ -19,7 +19,7 @@ const AudioPlayer: AudioPlayer = {
   song: "Mes",
   details: {
     autor: "Ed Sheeran",
-    year: 2015
+    year: 2014
   }
 }
 
