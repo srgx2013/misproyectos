@@ -11,7 +11,7 @@ const phone: Product = {
 
 const tablet: Product = {
   description: 'ipad',
-  price: 250.0
+  price: 251.0
 }
 interface TaxCalculationOptions {
   tax: number;
