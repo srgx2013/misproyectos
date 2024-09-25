@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a336be8ccdb2298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepto Desestructuracion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articuo 45.md",
+                "file": "Concepto Desestructuracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articuo 45.md",
+                "file": "Concepto Desestructuracion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articuo 45.md"
+                "file": "Concepto Desestructuracion.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da8cc06d0eaeaca6",
+  "active": "9a336be8ccdb2298",
   "lastOpenFiles": [
+    "curso Angular.md",
+    "Concepto Desestructuracion.md",
+    "INEGI.md",
+    "Articuo 45.md",
     "Articulos 48.md",
     "Articulo 47.md",
     "Articulo 46.md",
@@ -166,9 +183,7 @@
     "Localidad puntual.md",
     "Localidad caserio disperso.md",
     "Localidad amanzanada.md",
-    "INEGI.md",
     "Cartografia.md",
-    "Articuo 45.md",
     "Welcome.md"
   ]
 }
