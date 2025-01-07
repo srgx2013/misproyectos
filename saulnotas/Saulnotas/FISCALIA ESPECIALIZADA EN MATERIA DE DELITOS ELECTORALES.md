@@ -1,0 +1,1 @@
+organismo encargado de investigar y perseguir los delitos electorales a nivel federal; está regulado por el artículo 102 constitucional.

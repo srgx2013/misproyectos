@@ -1,0 +1,1 @@
+autoridad jurisdiccional especializada en materia electoral en cada entidad; no se encuentra adscrito a los poderes judiciales de las entidades federativas
